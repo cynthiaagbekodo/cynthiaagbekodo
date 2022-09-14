@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @cynthiaagbekodo
-- 👀 I’m interested in Electrical Engineering
+Hi, I'm Cynthia Agbekodo and welcome to my portfolio! 
 
 <!---
 cynthiaagbekodo/cynthiaagbekodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
