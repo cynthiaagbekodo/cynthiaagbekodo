@@ -1,4 +1,4 @@
-Hi, I'm Cynthia Agbekodo and welcome to my project portfolio! 
+Hi, I'm Cynthia and welcome to my project portfolio! 
 (This page is a work in progress)
 
 <!---
