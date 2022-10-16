@@ -1,7 +1,7 @@
 ### Hi there, I'm Cynthia and Welcome to my Portfolio!
-Here, I showcase a variety of projects completed on my own time, during my degree, or maybe while holding a position. 
+Here, I showcase a variety of projects I've completed. 
 
-Note: this library is a still a work in progress but please feel free to look around!
+Note: this library is still a work in progress but please feel free to look around!
 
 
 <!---
