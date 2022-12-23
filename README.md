@@ -1,7 +1,5 @@
 ### Hi there, I'm Cynthia and Welcome to my Portfolio!
-Here, I showcase various personal projects I have completed. 
-
-This library is a work in progress but please feel free to look around!
+Here, I showcase various personal projects I have completed. This library is a work in progress but feel free to look around!
 
 
 <!---
